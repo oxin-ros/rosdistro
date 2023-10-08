@@ -6299,6 +6299,26 @@ repositories:
       url: https://github.com/ros-drivers/linux_peripheral_interfaces.git
       version: kinetic
     status: unmaintained
+  livox_ros_driver:
+    doc:
+      type: git
+      url: https://github.com/oxin-ros/livox_ros_driver.git
+      version: devel
+    source:
+      type: git
+      url: https://github.com/oxin-ros/livox_ros_driver.git
+      version: master
+    status: devel
+  livox_sdk:
+    doc:
+      type: git
+      url: https://github.com/oxin-ros/Livox-SDK.git
+      version: master
+    source:
+      type: git
+      url: https://github.com/oxin-ros/Livox-SDK.git
+      version: master
+    status: maintained
   lms1xx:
     doc:
       type: git
